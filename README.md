@@ -19,3 +19,8 @@ note to self- follow "tutorial tips" in week 2 (because i will forget)
 -place "public float Speed = 10f;" in public class to set the object speed
 -"transform.Translate(Vector3.right * input * Time.deltaTime * Speed);" allows delta time to not be tied directly to unity's framerate
 and also allows to control the object.
+
+
+## 15-10-2024
+
+making progress on a physics based tutorial.
