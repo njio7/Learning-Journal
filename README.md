@@ -25,6 +25,10 @@ and also allows to control the object.
 
 making progress on tutorials. making a cube interact with a flat surface and moving on it. (tutorial 1)
 
+## 22-10-2024
+
+finishing movment tutorial and workign on pickups tutorial. (tutorial 2)
+
 ### making object move and jump on 3D plane
 ((to be cleaqned up at a later date))
 -create one cube and one plane from here:
