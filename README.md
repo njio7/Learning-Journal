@@ -58,3 +58,6 @@ back and forwards movment from code above. forward defines (0, 0, 1) movment. ri
 have these ticked to stop cube rotating on it's own
 ![image](https://github.com/user-attachments/assets/d6639ea7-c1b7-4a5b-a4a3-bc139742601b)
 
+## 12-11-2024
+
+### working on player health systems
