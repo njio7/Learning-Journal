@@ -61,3 +61,9 @@ have these ticked to stop cube rotating on it's own
 ## 12-11-2024
 
 ### working on player health systems
+
+## 3/12/2024
+
+### working on camera tracking tutorial write up
+
+i forgot to note down my progress for the past 2 weeks...
